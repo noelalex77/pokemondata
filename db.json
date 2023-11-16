@@ -1,6 +1,7 @@
 {
   "pokemondata": [
     {
+      "id": 1,
       "name": "Venusaur",
       "type1":"Grass",
       "type2":"Poison",
@@ -9,6 +10,7 @@
     },
 
     {
+      "id": 2,
       "name": "Charizard",
       "type1":"Fire",
       "type2":"Flying",
@@ -18,6 +20,7 @@
     },
     
     {
+      "id": 3,
       "name": "Butterfree",
       "type1":"Bug",
       "type2":"Flying",
@@ -26,6 +29,7 @@
     },
 
     {
+      "id": 4,
       "name": "Beedrill",
       "type1":"Bug",
       "type2":"Poison",
@@ -34,6 +38,7 @@
     },
 
     {
+      "id": 5,
       "name": "Fearow",
       "type1":"Normal",
       "type2":"Flying",
@@ -42,6 +47,7 @@
     },
     
     {
+      "id": 6,
       "name": "Nidoqueen",
       "type1":"Poison",
       "type2":"Ground",
@@ -51,6 +57,7 @@
     },
 
     {
+      "id": 7,
       "name": "Venomoth",
       "type1":"Bug",
       "type2":"Poison",
@@ -59,6 +66,7 @@
     },
   
     {
+      "id": 8,
       "name": "Wigglytuff",
       "type1":"Normal",
       "type2":"Fairy",
@@ -67,6 +75,7 @@
     },
     
     {
+      "id": 9,
       "name": "Jynx",
       "type1":"Ice",
       "type2":"Phychic",
