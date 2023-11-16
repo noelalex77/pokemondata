@@ -1,0 +1,79 @@
+{
+  "pokemondata": [
+    {
+      "name": "Venusaur",
+      "type1":"Grass",
+      "type2":"Poison",
+      "japanesename":"Fushigabana",
+      "evolution":"Venusaur evolves from Ivysaur at level 32. It can mega evolve into Mega Venusaur using the Venusaurite."
+    },
+
+    {
+      "name": "Charizard",
+      "type1":"Fire",
+      "type2":"Flying",
+      "japanesename":"Lizardon",
+      "evolution":"Charizard evolves from Charmeleon starting at level 36. It is the final form of Charmander."
+      
+    },
+    
+    {
+      "name": "Butterfree",
+      "type1":"Bug",
+      "type2":"Flying",
+      "japanesename":"Butterfree",
+      "evolution":"Butterfree evolves from Metapod at level 10 and is the final evolution of Caterpie."
+    },
+
+    {
+      "name": "Beedrill",
+      "type1":"Bug",
+      "type2":"Poison",
+      "japanesename":"Spear",
+      "evolution":"Beedrill is the final evolution of Weedle and evolves from Kakuna at level 10. Beedrill gains a Mega Evolution in Omega Ruby and Alpha Sapphire."
+    },
+
+    {
+      "name": "Fearow",
+      "type1":"Normal",
+      "type2":"Flying",
+      "japanesename":"Onidrill",
+      "evolution":"Fearow evolves from Spearow at level 20"
+    },
+    
+    {
+      "name": "Nidoqueen",
+      "type1":"Poison",
+      "type2":"Ground",
+      "japanesename":"Nidoqueen",
+      "evolution":"Nidoqueen is the evolved form of a Nidorina by use of a Moon Stone, and is the final form of a Nidoran."
+      
+    },
+
+    {
+      "name": "Venomoth",
+      "type1":"Bug",
+      "type2":"Poison",
+      "japanesename":"Morphon",
+      "evolution": "Venomoth is the evolved form of	Venonat as of level 31."
+    },
+  
+    {
+      "name": "Wigglytuff",
+      "type1":"Normal",
+      "type2":"Fairy",
+      "japanesename":"Pukurin",
+      "evolution":"Wigglytuff is the evolved form of Jigglypuff by the use of a Moon Stone. Wigglytuff is the final form of Igglybuff."
+    },
+    
+    {
+      "name": "Jynx",
+      "type1":"Ice",
+      "type2":"Phychic",
+      "japanesename":"Rougela",
+      "evolution":"Jynx is the evolved form of Smoochum as of level 30."
+    }
+
+
+    
+
